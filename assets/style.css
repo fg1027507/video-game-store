@@ -1,0 +1,13 @@
+body {
+    background-color: #f4f4f4;
+}
+
+.form-card {
+    max-width: 650px;
+}
+
+.game-image {
+    width: 75px;
+    height: 100px;
+    object-fit: contain;
+}
